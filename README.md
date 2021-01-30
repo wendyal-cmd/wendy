@@ -1,2 +1,3 @@
 # wendy
 MAHASISWA
+IAIN BENGKULU
